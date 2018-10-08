@@ -8,5 +8,7 @@ Predict the number of pickups as accurately as possible for each region in a 10 
 - 1. It should take low latency to find out numbers of more pickup with in few seconds but not more than minutes.
 - 2. Interpretability is not more important for this case study
 
-
+### Performance metrics
+- Mean Absolute percentage error.
+- Mean Squared error.
 
