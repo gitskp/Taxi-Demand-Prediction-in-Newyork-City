@@ -12,3 +12,16 @@ Predict the number of pickups as accurately as possible for each region in a 10 
 - Mean Absolute percentage error.
 - Mean Squared error.
 
+### Software or Library to run this project
+- dask
+- seaborn
+- matplotlib
+- sckit-learn
+- folium
+- pandas
+- numpy
+- xgboost
+- graphviz
+
+### Dataset:
+- http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml 
